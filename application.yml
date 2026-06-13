@@ -1,3 +1,15 @@
 default:
   customer:
     value: test1,test2,test3
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - health
+          - info
+
+logging:
+  level:
+    org.springframework.cloud.config: INFO

@@ -1,6 +1,10 @@
+
+
+
 default:
   customer:
-    value: dev1,dev2,dev3
+    value: customer1,customer2,customer3
+
 
 management:
   endpoints:
@@ -9,7 +13,6 @@ management:
         include:
           - health
           - info
-
 logging:
   level:
-    org.springframework.cloud.config: INFO
+    org.springframework.cloud.config: DEBUG
