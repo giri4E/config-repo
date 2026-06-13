@@ -9,6 +9,7 @@ default:
       - customer3
       - customer4
       - customer5
+      - Cusyomer6
 
 
 management:
