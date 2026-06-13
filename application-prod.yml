@@ -1,0 +1,3 @@
+default:
+  customer:
+    value: prod1,prod2,prod3

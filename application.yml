@@ -1,0 +1,3 @@
+default:
+  customer:
+    value: test1,test2,test3

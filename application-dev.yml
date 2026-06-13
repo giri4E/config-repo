@@ -1,0 +1,3 @@
+default:
+  customer:
+    value: dev1,dev2,dev3
