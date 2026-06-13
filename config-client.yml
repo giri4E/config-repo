@@ -13,6 +13,7 @@ management:
         include:
           - health
           - info
+          - refresh
 logging:
   level:
     org.springframework.cloud.config: DEBUG
