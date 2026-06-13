@@ -1,6 +1,9 @@
 default:
   customer:
-    value: test1,test2,test3
+    value:
+      - test1
+      - test2
+      - test3
 
 management:
   endpoints:

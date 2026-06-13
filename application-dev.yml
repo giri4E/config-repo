@@ -1,6 +1,9 @@
 default:
   customer:
-    value: dev1,dev2,dev3
+    value:
+      - dev1
+      - dev2
+      - dev3
 
 management:
   endpoints:

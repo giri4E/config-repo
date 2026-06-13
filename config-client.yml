@@ -3,7 +3,10 @@
 
 default:
   customer:
-    value: customer1,customer2,customer3
+    value:
+      - customer1
+      - customer2
+      - customer3
 
 
 management:
