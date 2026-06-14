@@ -12,6 +12,7 @@ default:
       - customer3
       - customer4
       - customer5
+      - customer6
 
 
 management:
